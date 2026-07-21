@@ -65,7 +65,16 @@ Controls may vary by build; check the in-game menu if available.
 - Interact: `right d-pad`
 - Reload: `X/Square`
 - Switch weapon: `Y/Triangle`
+
 ---
+
+## Media
+
+<!-- TODO: add gameplay screenshots / a short GIF to docs/media and embed them here:
+![Gameplay](docs/media/gameplay-01.png)
+-->
+
+Watch the [trailer / gameplay clip](https://www.youtube.com/watch?v=KaRmbNnXc-o) or grab the [playable build on itch.io](https://saulosouza2703.itch.io/darksideofhorror).
 
 ---
 
@@ -91,5 +100,4 @@ If you want to reuse code or assets, please contact the team first.
 
 ## Contact
 
-- GitHub: <YOUR_GITHUB_PROFILE_URL>
-- Email: <YOUR_EMAIL_OR_LINKEDIN>
+- GitHub: [Ian-WB](https://github.com/Ian-WB)
